@@ -1,4 +1,5 @@
 import { type PropsWithChildren } from 'react';
+import InfoBox from './InfoBox';
 
 type CourseGoalProps = PropsWithChildren<{
   id: number;
